@@ -25,28 +25,25 @@ h3.font_chg  {
 
 h1.left  {
     border-style: solid;
-    border-width: medium;
     border-left-color: blueviolet;
 
 }
 
 h1.right {
     border-style: solid;
-    border-width: medium;
     border-right-color: blueviolet;
+
 }
 
 
 h1.top {
     border-style: solid;
-    border-width: medium;
     border-top-color: blueviolet;
 }
 
 
 h1.bottom {
     border-style: solid;
-    border-width: medium;
     border-bottom-color: blueviolet;
 }
 
