@@ -1,0 +1,80 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    background: transparent url("Images/beach-1236581_1280.jpg");
+    background-size: 100% 100vh;
+    background-repeat:no-repeat;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, sans-serif;
+    margin: 10px;
+    padding: 100px; 
+
+}
+
+header {
+    letter-spacing: 3px;
+}
+
+h2.font_chg,
+h3.font_chg  {
+    font-family: Georgia, 'Times New Roman', Times, sans-serif;
+    letter-spacing: 1px;
+
+}
+
+ul {
+    font-size: 1.3em;
+    list-style: square;
+}
+figure {
+    text-align: center;
+    font-size: 1.3em;
+}
+body {
+    background-color: lavender;
+
+}
+
+p {
+    font-size: 1.4em;
+    letter-spacing: 0em;
+    font-family: sans-serif, 'Times New Roman', Times, serif;
+}
+.overlay {
+    opacity: 0.6;
+  }
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+  }
+
+footer {
+    background: transparent url("Images/2048x2048-lavender-purple-solid-color-background.jpg");
+    position: relative;
+    background-size: 100% 100vh;
+    background-repeat:no-repeat;
+    padding: 20px;
+
+}
+footer .name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: cornsilk;
+}
+footer .copy_wr {
+    font-family: Arial, Helvetica, sans-serif;
+    color: cornsilk;
+}
+
+.italics {
+
+    font-style: italic;
+    font-size: 0.8em;
+}
+
+
